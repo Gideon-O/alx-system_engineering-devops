@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -l 3
+cat -l3 iacta
