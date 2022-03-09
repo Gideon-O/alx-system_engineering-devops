@@ -1,0 +1,3 @@
+SHELL VARIABLES EXPANSIONS
+
+0. Creating an alias
